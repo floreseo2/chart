@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  eric-data-key-value-database-rd-crd:
+  - apiVersion: v1
+    appVersion: h48647193c
+    created: "2024-04-24T12:57:56.541107585+01:00"
+    description: A Helm chart for deploying Packet Core KVDB RD CRD
+    digest: f8dc98be46ccfef9ff82bde087c447d258da4c62d56e2980832f0cc83a45bf23
+    name: eric-data-key-value-database-rd-crd
+    urls:
+    - https://github.com/floreseo2/chart/eric-data-key-value-database-rd-crd-1.1.0+1.tgz
+    version: 1.1.0+1
+generated: "2024-04-24T12:57:56.540538244+01:00"
